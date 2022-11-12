@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628556014667",
+    "firebase_url": "https://staffdata-bbd6e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "staffdata-bbd6e",
+    "storage_bucket": "staffdata-bbd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628556014667:android:775d6b7af063410d6e99ce",
+        "android_client_info": {
+          "package_name": "com.example.staffs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628556014667-t0k9igoc9ov0u9ah5uj46s2g30egts54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQch6Z-D-igLXFQaxAmu1XCXJSmL2-rTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628556014667-t0k9igoc9ov0u9ah5uj46s2g30egts54.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628556014667-f5iemrd8j5k26bkbvksu94pa7dl6d4nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staffs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
